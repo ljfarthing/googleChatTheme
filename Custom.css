@@ -70,7 +70,7 @@
 }
 /* Room title between threads in search results */
 .aVIRye {
-    color: #cc7832 !important;
+    color: #009688 !important;
 }
 /* Load more messages button in search results */
 .taQuBe {
@@ -80,7 +80,7 @@
 
 /* Topbar members button */
 .sNyyib .x1jjEb {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 
 /* Topbar in room preview */
@@ -97,7 +97,7 @@
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 
 /* Active thread box */
@@ -107,15 +107,15 @@
 
 /* "Unread" label */
 .Fv5sh {
-    color: #cc7832;
+    color: #009688;
 }
 .z9ucM .heceU {
-    fill: #cc7832;
+    fill: #009688;
 }
 
 /* Jump to bottom button */
 .g3VIld .HvOprf, .e3Duub, .w63zXd .NMPajd {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 .g3VIld .HvOprf:hover, .e3Duub:hover, .w63zXd:hover .NMPajd {
     background-color: #aa5010;
@@ -128,7 +128,7 @@
 .Jqvwfe {
     background-color: #3d3d3d;
     border: solid 1px #6a6a6a;
-    color: #cc7832;
+    color: #009688;
 }
 
 /* Username color */
@@ -151,7 +151,7 @@
 
 /* Cancel button when editing a message */
 .HQ8yf .RveJvd.RveJvd, .oG5Srb .RveJvd.RveJvd, .KV0KFc .ojqkvd {
-    color: #cc7832;
+    color: #009688;
 }
 
 /* Borders in message editing */
@@ -190,7 +190,7 @@
     color: #fff;
 }
 .SfqTBc .jy2fzc {
-    color: #cc7832;
+    color: #009688;
 }
 
 /* New thread box */
@@ -205,7 +205,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: #cc7832;
+    fill: #009688;
 }
 
 /* Join room box in room preview */
@@ -217,7 +217,7 @@
 }
 /* Join button */
 .W32wZ {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 
 /* Text between threads color */
@@ -243,7 +243,7 @@
     color: #fff;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
     background-color: #aa5010;
@@ -261,8 +261,8 @@
 
 /* "Unread" jump button in sidebar */
 .OpmeVb .GfYBMd, .FTuhNb .RW5Kg {
-    fill: #cc7832;
-    color: #cc7832;
+    fill: #009688;
+    color: #009688;
 }
 
 /* Sidebar "recent" or "starred" section names color */
@@ -319,12 +319,12 @@
 
 /* Chat top left logo */
 #_x3C_Path_x3E_ {
-    fill: #cc7832;
+    fill: #009688;
 }
 
 /* Top left corner Status button when active */
 .RASpke:hover, .RASpke:focus, .RASpke:hover:focus, .RASpke:active, .RASpke.iWO5td.iWO5td {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
@@ -357,17 +357,17 @@
 /* Inline pre colors */
 .U8d2H {
     background-color: #3d3d3d;
-    color: #cc7832;
+    color: #009688;
     border: 1px solid #6a6a6a;
 }
 
 /* Self Mentions */
 .cmEq8b .NhKrqd {
-    background-color: #cc7832;
+    background-color: #009688;
 }
 /* Others' mentions */
 .fWwrkf {
-    color: #cc7832;
+    color: #009688;
 }
 
 /* Link previews */
@@ -395,7 +395,7 @@
     border: 1px solid #6a6a6a;
 }
 .ubzhQb {
-    color: #cc7832;
+    color: #009688;
 }
 
 /* Emoji reactions */
@@ -407,11 +407,11 @@
     color: #ccc;
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: #cc7832;
+    color: #009688;
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: #cc7832;
+    fill: #009688;
 }
 
 /* browse room and search exit button */
